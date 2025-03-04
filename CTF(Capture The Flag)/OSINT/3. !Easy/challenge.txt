@@ -1,0 +1,13 @@
+Challenge: !Easy
+Points: 200
+
+Description:
+The Sonargaon University Programming Club recently posted an important announcement on their official Facebook page. However, the post was mysteriously edited or deleted, and only fragments of the original content remain.
+
+Some say that the club’s president left a hidden clue. Your job is to trace back the original message and uncover the hidden flag.
+
+Flag Format: 
+CSEDAY{hidden_message_here}
+
+Answer:
+CSEDAY{Y0U_4R3_V3RY_CL3V3R}

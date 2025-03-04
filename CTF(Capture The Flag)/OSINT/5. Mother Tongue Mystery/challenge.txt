@@ -1,0 +1,14 @@
+Challenge: Mother Tongue Mystery
+Points: 300
+
+Description:
+"One day, I was casually scrolling through social media when a simple post about International Mother Language Day caught my attention. But something felt off — the comments seemed... unusual. I don't know why, but I keep feeling the urge to revisit that post. Can you figure out why?"
+
+Flag Format:
+CSEDAY{Hidden_Words}
+
+Hint:
+do you know who is cyber bangla
+
+Answer:
+CSEDAY{Language_Secrets_1952}

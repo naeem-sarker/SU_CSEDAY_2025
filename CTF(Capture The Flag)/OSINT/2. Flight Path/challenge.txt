@@ -1,0 +1,11 @@
+Challenge: Flight Path
+Points: 200
+
+Description:
+While investigating an unusual flight, you’ve come across a mysterious flight number QR639. It seems like an ordinary flight, but there’s more beneath the surface. Your task is to track the flight’s path using its flight number and determine its origin and destination countries. Every flight leaves a trail. Can you track QR639 and find the flight's route?
+
+Flag Format: 
+CSEDAY{Airline_FlightNumber_SourceCountry_DestinationCountry}
+
+Answer:
+CSEDAY{QatarAirways_QR639_Bangladesh_Qatar}

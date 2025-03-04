@@ -1,0 +1,15 @@
+Challenge: The Grand Mosque
+Points: 300
+
+Description:
+One of the world's most iconic architectural wonders, blending history and modernity—this mosque is your mysterious mission to uncover. Study the image carefully, and use everything you know about the place to your advantage. To find its exact location, you must follow the clues in the image and reach the precise spot. Your path holds multiple hints—there’s a correct code that will guide your way. Can you solve the mystery?
+
+Flag Format: 
+CSEDAY{xx.xxx_xx.xxx_DD7D+0X}
+
+Hint:
+Did you know that Google Maps has a unique plus code for each location?
+I need to PlusCode
+
+Answer:
+CSEDAY{24.412_54.474_CF7F+4X}

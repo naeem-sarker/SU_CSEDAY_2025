@@ -1,0 +1,13 @@
+Challenge: Whios
+Points: 100
+
+Description:
+While working on a cybersecurity case, I stumbled upon a mysterious website "example.com." At first glance, it seems harmless — just another ordinary site, but something adds up. Reveals subtle clues to a closely hidden information.
+
+Every site leaves a start and end trail. Will you connect the dots?
+
+Flag Format: 
+CSEDAY{yyyy/dd/mm}
+
+Answer:
+CSEDAY{1995/14/08}
